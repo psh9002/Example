@@ -25,3 +25,9 @@ git remote -v // 연결상태를 확인한다.
 git push // 깃허브로 푸시한다.
 
 (내 저장소의 master 브랜치를 지정하도록 하려면 git push origin master로 입력할 수 있다)
+
+
+출처: https://nolboo.kim/blog/2013/10/06/github-for-beginner/
+
+기타 참고사항
+https://www.pigno.se/barn/tutorial-git/docs/#/
