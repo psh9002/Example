@@ -20,6 +20,8 @@ git commit -m "(언급할 내용 작성)” // 언급할 내용을 ""안에 작�
 
 git remote add origin https://github.com/username/myproject.git // 로컬과 원격 저장소를 연결한다.
 
+(git remote remove origin // 기존 repository를 바꾸고 싶다면 입력 후, 위 코드를 이용하여 새로운 주소 입력)
+
 git remote -v // 연결상태를 확인한다.
 
 git push // 깃허브로 푸시한다.
