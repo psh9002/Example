@@ -12,7 +12,7 @@ github 명령어 정리
 *git commit -m "(언급할 내용 작성)” // 언급할 내용을 ""안에 작성한다.
 *git remote add origin https://github.com/username/myproject.git // 로컬과 원격 저장소를 연결한다.
 	*git remote remove origin // 기존 repository를 바꾸고 싶다면 입력 후, 위 코드를 이용하여 새로운 주소 입력
-	*기존 원격 저장소 URL을 변경하기 위해 git remote set-url 명령어를 사용<br>$ git remote set-url origin URL입력
+	*또는 기존 원격 저장소 URL을 변경하기 위해 git remote set-url 명령어를 사용<br>$ git remote set-url origin URL입력
 *git remote -v // 연결상태를 확인한다.
 *git push // 깃허브로 푸시한다.<br>
 (내 저장소의 master 브랜치를 지정하도록 하려면 git push origin master로 입력할 수 있다)
