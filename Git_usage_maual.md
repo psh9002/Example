@@ -16,7 +16,7 @@ git add 화일명.확장자  // 깃 주목 리스트에 화일을 추가하고 o
 
 git add .           // 이 명령은 현재 디렉토리의 모든 화일을 추가할 수 있다.
 
-git commit -m “Add 파일이름” // 커밋해서 스냅샷을 찍는다.
+git commit -m "(언급할 내용 작성)” // 언급할 내용을 ""안에 작성한다.
 
 git remote add origin https://github.com/username/myproject.git // 로컬과 원격 저장소를 연결한다.
 
@@ -31,3 +31,5 @@ git push // 깃허브로 푸시한다.
 
 기타 참고사항
 https://www.pigno.se/barn/tutorial-git/docs/#/
+
+추천 자료: https://rogerdudler.github.io/git-guide/index.ko.html
